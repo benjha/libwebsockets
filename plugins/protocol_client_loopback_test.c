@@ -21,6 +21,7 @@
 #define LWS_DLL
 #define LWS_INTERNAL
 #include <libwebsockets.h>
+#include <stdio.h>
 #include <string.h>
 
 struct per_session_data__client_loopback_test {
