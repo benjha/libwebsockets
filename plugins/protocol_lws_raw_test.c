@@ -70,7 +70,7 @@
 #define LWS_INTERNAL
 #include <libwebsockets.h>
 #endif
-
+#include <stdio.h>
 #include <string.h>
 
 struct per_vhost_data__raw_test {
